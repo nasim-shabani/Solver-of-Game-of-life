@@ -1,6 +1,10 @@
 # Solver-of-Game-of-life
 FirstSemester_2017_ProgrammingExpert
 
+# Verslag 
+Shared file om het verslag samen aan te vullen 
+https://drive.google.com/open?id=1l4inRhztH83eHAMWqtkLiMA3Ofvi_7Jq-60weeRhHQ0 
+
 # Doel	
 - Een	bestaande	(open	source)	applicatie doorlichten	qua	performanJe
   - Geheugengebruik	
@@ -43,6 +47,7 @@ FirstSemester_2017_ProgrammingExpert
 - Extra:	stel	je	verbeteringen	voor	aan	de auteurs van het project (pull request)
 
 ## Stap	5:	verslag	
+https://drive.google.com/open?id=1l4inRhztH83eHAMWqtkLiMA3Ofvi_7Jq-60weeRhHQ0 
 - Onderdelen	
   - Groepsleden	
   - ReferenJe	project	
