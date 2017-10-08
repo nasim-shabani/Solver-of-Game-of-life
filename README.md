@@ -3,18 +3,18 @@ FirstSemester_2017_ProgrammingExpert
 
 # Some Projects solvers 
 ## Java 
-https://github.com/priyaaank/ConwayGameOfLife 
-https://github.com/olived19/micro-gameOfLife-gridworker 
-https://github.com/olived19/micro-gameOfLife-core 
-https://github.com/lpang36/ICS-11-coursework 
-https://github.com/ArturT/Game-of-Life-in-Java -- seems to work 
-https://github.com/Inoryy/game-of-life-java 
+https://github.com/priyaaank/ConwayGameOfLife  
+https://github.com/olived19/micro-gameOfLife-gridworker  
+https://github.com/olived19/micro-gameOfLife-core  
+https://github.com/lpang36/ICS-11-coursework  
+https://github.com/ArturT/Game-of-Life-in-Java  -- seems to work  
+https://github.com/Inoryy/game-of-life-java  
 ## C#
-https://github.com/maartenzuidland/GameOfLife 
-https://github.com/ArturT/Game-of-Life  -- seems to work 
+https://github.com/maartenzuidland/GameOfLife  
+https://github.com/ArturT/Game-of-Life  -- seems to work  
 
 # Verslag 
-Shared file om het verslag samen aan te vullen 
+Shared file om het verslag samen aan te vullen  
 https://drive.google.com/open?id=1l4inRhztH83eHAMWqtkLiMA3Ofvi_7Jq-60weeRhHQ0 
 
 # Doel	
