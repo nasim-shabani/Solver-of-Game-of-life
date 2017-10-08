@@ -7,8 +7,11 @@ https://github.com/priyaaank/ConwayGameOfLife
 https://github.com/olived19/micro-gameOfLife-gridworker 
 https://github.com/olived19/micro-gameOfLife-core 
 https://github.com/lpang36/ICS-11-coursework 
+https://github.com/ArturT/Game-of-Life-in-Java -- seems to work 
+https://github.com/Inoryy/game-of-life-java 
 ## C#
 https://github.com/maartenzuidland/GameOfLife 
+https://github.com/ArturT/Game-of-Life  -- seems to work 
 
 # Verslag 
 Shared file om het verslag samen aan te vullen 
