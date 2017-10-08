@@ -1,6 +1,15 @@
 # Solver-of-Game-of-life
 FirstSemester_2017_ProgrammingExpert
 
+# Some Projects solvers 
+## Java 
+https://github.com/priyaaank/ConwayGameOfLife 
+https://github.com/olived19/micro-gameOfLife-gridworker 
+https://github.com/olived19/micro-gameOfLife-core 
+https://github.com/lpang36/ICS-11-coursework 
+##C#
+https://github.com/maartenzuidland/GameOfLife 
+
 # Verslag 
 Shared file om het verslag samen aan te vullen 
 https://drive.google.com/open?id=1l4inRhztH83eHAMWqtkLiMA3Ofvi_7Jq-60weeRhHQ0 
