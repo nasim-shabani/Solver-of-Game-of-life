@@ -7,7 +7,7 @@ https://github.com/priyaaank/ConwayGameOfLife
 https://github.com/olived19/micro-gameOfLife-gridworker 
 https://github.com/olived19/micro-gameOfLife-core 
 https://github.com/lpang36/ICS-11-coursework 
-##C#
+## C#
 https://github.com/maartenzuidland/GameOfLife 
 
 # Verslag 
