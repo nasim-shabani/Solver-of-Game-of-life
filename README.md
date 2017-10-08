@@ -3,12 +3,11 @@ FirstSemester_2017_ProgrammingExpert
 
 # Some Projects solvers 
 ## Java 
-https://github.com/priyaaank/ConwayGameOfLife  
-https://github.com/olived19/micro-gameOfLife-gridworker  
-https://github.com/olived19/micro-gameOfLife-core  
-https://github.com/lpang36/ICS-11-coursework  
-https://github.com/ArturT/Game-of-Life-in-Java  -- seems to work  
-https://github.com/Inoryy/game-of-life-java  
+https://github.com/priyaaank/ConwayGameOfLife  (werkt niet)
+https://github.com/olived19/micro-gameOfLife-gridworker  (werkt niet, geen main & errors)
+https://github.com/olived19/micro-gameOfLife-core  (geen main)
+https://github.com/ArturT/Game-of-Life-in-Java  -- seems to work  (maar stopt niet vanzelf) 
+https://github.com/Inoryy/game-of-life-java  -- Werkt met console input voor iteraties
 ## C#
 https://github.com/maartenzuidland/GameOfLife  
 https://github.com/ArturT/Game-of-Life  -- seems to work  
